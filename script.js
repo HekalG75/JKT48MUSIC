@@ -63,7 +63,7 @@ const songsList = [
         name: "Magic Hour",
         artist: "JKT48",
         src: "assets/Magic Hour.mp3",
-        cover: "assets/11.jpg"
+        cover: "assets/18.jpg"
     },
     {
         name: "Only Today",
